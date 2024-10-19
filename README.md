@@ -1,0 +1,2 @@
+# proyecto
+conección a linux
